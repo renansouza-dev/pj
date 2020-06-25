@@ -1,0 +1,1 @@
+https://medium.com/@devanshitrivedi/spring-boot-2-jpa-hibernate-5-mysql-application-development-with-junit-5-and-mockito-2-unit-8e18eb9b23a3
