@@ -17,9 +17,9 @@ The service is just a simple OS Management REST Service. It uses an in-memory da
 Once the app is up and running access `http://localhost:8080/swagger-ui.html`
 
 ## payload examples
-`{"name":"Receptionist","active":true,"new":true}`
-`{"name":"Technician","active":true,"new":true}`
-`{"description":"Product","type":"PC","brand":"Brand","new":true}`
-`{"name":"Client","address":"123 Main Street","zipcode":89200000,"phone":"47999999999","email":"client@mail.com","new":true}`
-`{"receptionist":{"name":"Receptionist","active":true,"new":true},"technician":{"name":"Technician","active":true,"new":true},"client":{"name":"Client","address":"123 Main Street","zipcode":89200000,"phone":"47999999999","email":"client@mail.com","new":true},"product":{"description":"Product","type":"PC","brand":"Brand","new":true},"defect":"Broken","status":"IN_PROGESS","new":true}`
+`{"name":"Receptionist","active":true,"new":true}` <br />
+`{"name":"Technician","active":true,"new":true}` <br />
+`{"description":"Product","type":"PC","brand":"Brand","new":true}` <br />
+`{"name":"Client","address":"123 Main Street","zipcode":89200000,"phone":"47999999999","email":"client@mail.com","new":true}` <br />
+`{"receptionist":{"name":"Receptionist","active":true,"new":true},"technician":{"name":"Technician","active":true,"new":true},"client":{"name":"Client","address":"123 Main Street","zipcode":89200000,"phone":"47999999999","email":"client@mail.com","new":true},"product":{"description":"Product","type":"PC","brand":"Brand","new":true},"defect":"Broken","status":"IN_PROGESS","new":true}` <br />
 `{"employee":{"name":"Technician","active":true,"new":true},"message":"Working on it!","new":true}`
